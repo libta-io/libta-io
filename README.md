@@ -1,6 +1,4 @@
-<p>
-  <h1<b>Hello! I am Libta.</h1>
-</p>
+Hello! I am Libta.
 
 ![GitHub followers](https://img.shields.io/github/followers/libta-io?style=social)
 
