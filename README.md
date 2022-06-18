@@ -4,4 +4,5 @@
 
 ## Website
 https://libta-io.github.io/
-![](https://github.com/libta-io.github.io/blob/main/assets/images/LibtaTxt.gif)
+
+![](https://imgur.com/PdORQDy)
