@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hello! I am Libta.</h1>
+  <h1<b>Hello! I am Libta.</h1>
 </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/libta-io?style=social)
