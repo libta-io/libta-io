@@ -2,4 +2,4 @@
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=libta-io)](https://github.com/anuraghazra/github-readme-stats)
 
-[Link to Google](https://www.google.com)
+![](https://imgur.com/gallery/CEfoIzK)
