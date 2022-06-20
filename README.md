@@ -1,4 +1,4 @@
-## Hello! I am Libta.
+## Hello! I'm Libta.
 
 ![GitHub followers](https://img.shields.io/github/followers/libta-io?style=social)
 
