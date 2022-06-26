@@ -10,4 +10,3 @@
 - [What is a Data Center & Data Center Security?](https://libta-io.github.io/guides/what-is-data-center-security/)
 - [What is OpenVPN? How does OpenVPN work?](https://libta-io.github.io/guides/open-vpn-guide/)
 - [What is a Proxy Server? How does it work?](https://libta-io.github.io/guides/what-is-proxy/)
-- [What is a VPN? How does it work?](https://libta-io.github.io/guides/what-is-vpn/)
