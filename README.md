@@ -1,4 +1,4 @@
-## Hello! I'm Libta.
+![Libta](https://raw.githubusercontent.com/libta-io/libta-io/main/images/banner.png)
 
 ![GitHub followers](https://img.shields.io/github/followers/libta-io?style=social)
 
