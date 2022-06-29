@@ -6,3 +6,4 @@
 
 ## Blog posts
 - [Anonsurf for Anonymity](https://libta-io.github.io/hacking/anonsurf-for-anonymity/)
+- [Change DNS in Kali Linux](https://libta-io.github.io/hacking/change-dns-kali-linux/)
