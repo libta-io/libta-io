@@ -1,5 +1,11 @@
 ![Libta](https://raw.githubusercontent.com/libta-io/libta-io/main/images/banner.png)
 
+## Hello! 👋
+
+- 💼 I am a self-taught computer science student.
+- 💻 I am a IT and cybersecurity enthusiast.
+- 💬 My goal is to enter an engineering school.
+
 ![GitHub followers](https://img.shields.io/github/followers/libta-io?style=social)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=libta-io)](https://github.com/anuraghazra/github-readme-stats)
