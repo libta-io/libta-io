@@ -12,8 +12,8 @@
 
 ## Links 🔗
 
-[![](https://raw.githubusercontent.com/libta-io/libta-io.github.io/main/assets/images/libta.jpg) Website](https://libta-io.github.io) &nbsp;
-[![](https://raw.githubusercontent.com/libta-io/libta-io.github.io/main/assets/images/libta.jpg) Github](https://github.com/libta-io)
+[![](https://raw.githubusercontent.com/libta-io/libta-io.github.io/main/assets/images/website.png) Website](https://libta-io.github.io) &nbsp;
+[![](https://raw.githubusercontent.com/libta-io/libta-io.github.io/main/assets/images/github.png) Github](https://github.com/libta-io)
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
