@@ -10,6 +10,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=libta-io)](https://github.com/anuraghazra/github-readme-stats)
 
+## Links 🔗
+
+[![](https://raw.githubusercontent.com/libta-io/libta-io.github.io/main/assets/images/libta.jpg) Website](https://libta-io.github.io) &nbsp;
+[![](https://raw.githubusercontent.com/libta-io/libta-io.github.io/main/assets/images/libta.jpg) Github](https://github.com/libta-io)
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Anonsurf for Anonymity](https://libta-io.github.io/hacking/anonsurf-for-anonymity/)
