@@ -4,7 +4,6 @@
 
 - 💼 I'm a self-taught computer science student.
 - 💻 I'm a IT and cybersecurity enthusiast.
-- 💬 My goal is to enter an engineering school to become an expert in cybersecurity.
 
 ![GitHub followers](https://img.shields.io/github/followers/libta-io?style=social)
 
