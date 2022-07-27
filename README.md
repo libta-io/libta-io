@@ -16,7 +16,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Change DNS in Kali Linux](https://libta-io.github.io/hacking/change-dns-kali-linux/)
+- [Update Kali Linux](https://libta-io.github.io/kali%20linux/update-kali-linux/)
+- [Change DNS in Kali Linux](https://libta-io.github.io/kali%20linux/hacking/change-dns-kali-linux/)
 - [Google Dorks/Hacking](https://libta-io.github.io/hacking/google-dorks/)
-- [Anonsurf for Anonymity](https://libta-io.github.io/hacking/anonsurf-for-anonymity/)
+- [Anonsurf for Anonymity](https://libta-io.github.io/hacking/kali%20linux/anonsurf-for-anonymity/)
 <!-- BLOG-POST-LIST:END -->
