@@ -16,6 +16,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JoomScan Vulnerability Scanner Tool In Kali Linux](https://libta-io.github.io/kali%20linux/hacking/joomscan-vulnerability-scanner-kali-linux/)
 - [Update Kali Linux](https://libta-io.github.io/kali%20linux/update-kali-linux/)
 - [Change DNS In Kali Linux](https://libta-io.github.io/kali%20linux/hacking/change-dns-kali-linux/)
 - [Google Dorks/Hacking](https://libta-io.github.io/hacking/google-dorks/)
